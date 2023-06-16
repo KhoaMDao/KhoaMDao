@@ -18,14 +18,8 @@ Although my primary focus is data science and statistics, I believe in the power
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-## ⚙️ &nbsp;GitHub Analytics
 
-<p align="center">
-   <a href="https://github.com/dmtrung14">
-     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=KhoaMDao&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-     <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=KhoaMDao&layout=compact&langs_count=8&theme=algolia"/>
-   </a>
-</p>
+
 
 
 <!--
